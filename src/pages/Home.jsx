@@ -54,7 +54,7 @@ const Home = () => {
             </div>
 
             <div className='md:mx-5 mx-32 shadow-2xl bg-gray-50 -mt-20 rounded-lg hover:bg-gray-700 hover:text-white'>
-            <div className='h-96' data-aos='slide-down'>
+            <div className='h-96' data-aos='zoom-in'>
             <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_ne6kcqfz.json"  background="transparent"  speed="1" loop autoplay></lottie-player>
             </div>
             <p className='text-xl my-5 font-semi md:px-5 px-14 py-10'>
