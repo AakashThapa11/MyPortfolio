@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/Layout';
 import { FaCss3, FaHtml5, FaJava, FaNodeJs, FaReact } from 'react-icons/fa';
 import {SiTailwindcss, SiFlutter, SiAndroidstudio} from 'react-icons/si';
-import resume from '../components/resources/cv.pdf';
+import resume from '../components/resources/Aakash-cv.pdf';
 import { Link } from 'react-router-dom';
 import AOS from 'aos';
 AOS.init(
