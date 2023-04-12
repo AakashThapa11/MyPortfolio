@@ -124,7 +124,7 @@ const Home = () => {
                   <pre className='text-xl md:text-sm my-5 font-mont font-semibold'>
                     {JSON.stringify({
                       name: "Aakash Thapa",
-                      age: "22",
+                      age: "23",
                       gender: "Male",
                       country: 'NEPAL'
                     }, null, 2)}
