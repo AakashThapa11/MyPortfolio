@@ -126,7 +126,7 @@ const Home = () => {
                       name: "Aakash Thapa",
                       age: "23",
                       gender: "Male",
-                      country: 'NEPAL'
+                      country: 'Australia'
                     }, null, 2)}
                   </pre>
                   </h1>
